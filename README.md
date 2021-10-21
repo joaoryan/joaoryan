@@ -1,4 +1,4 @@
-### Olá, sou Joao Rya 👨‍💻
+### Olá, sou Joao Ryan 👨‍💻
 
 
 - 💻 Atualmente trabalhando com aplicação web
@@ -23,7 +23,8 @@
   <img align="right" alt="Joao-yoda" height="150" width="150" src="https://media.giphy.com/media/4AinVHD68bKoYooy8t/giphy.gif">
 </div>
   
-  
+  ## 
+ 
   <div> 
   <a href="https://www.instagram.com/joaoryansantos/" ><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"    target="_blank"></a>
   <a href = "mailto:sjoaoryan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
