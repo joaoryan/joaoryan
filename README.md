@@ -33,7 +33,6 @@
 
  <div> 
  
-   
   ![Snake animation](https://github.com/joaoryan/joaoryan/blob/output/github-contribution-grid-snake.svg)
-  <img align="right" alt="Joao-yoda" height="150" width="150" src="https://media.giphy.com/media/4AinVHD68bKoYooy8t/giphy.gif">
+  
 </div>
