@@ -12,9 +12,9 @@
 
 <p align="center"> 
     <br>
- 💻 Atualmente trabalhando com desenvolvimento web como full Stack
+ 💻 Desenvolvedor pleno especializado em desenvolvimento web Full Stack
    <br>
- 📚 Estudante de engenharia de software no INATEL
+ 📚 Graduando em Engenharia de Software no INATEL
     <br>
 <p>
   
