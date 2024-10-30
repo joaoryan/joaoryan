@@ -30,7 +30,9 @@
   <img align="center" alt="Joao-CSS" height="60" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="Joao-CSS" height="60" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
-
+<div style="display: inline_block" align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=joaoryan&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+</div>
  <div> 
  
   ![Snake animation](https://github.com/joaoryan/joaoryan/blob/output/github-contribution-grid-snake.svg)
